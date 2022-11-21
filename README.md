@@ -1,2 +1,6 @@
 # EDA-Runtime-Testing
-Tests for generalised runtime results for Estimation-of-Distribution Algorithms.
+Simulations of generalised runtime results for Estimation-of-Distribution Algorithms.
+
+References:
+- https://arxiv.org/abs/2004.04978
+- https://arxiv.org/abs/2206.11198
